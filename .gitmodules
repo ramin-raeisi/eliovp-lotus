@@ -1,0 +1,9 @@
+[submodule "extern/serialization-vectors"]
+	path = extern/serialization-vectors
+	url = git@github.com:filecoin-project/serialization-vectors.git
+[submodule "extern/test-vectors"]
+	path = extern/test-vectors
+	url = git@github.com:filecoin-project/test-vectors.git
+[submodule "extern/blst"]
+	path = extern/blst
+	url = git@github.com:supranational/blst.git
